@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Vishal Roy
 #### Software and Web Development
 I'm Vishal Roy from India, and I love to work in the Development field. I really enjoy learning languages, libraries and frameworks like React, NodeJS, Python and many more. I also enjoy wireframing. You can check out my [linkedIn profile](https://www.linkedin.com/in/vishal-roy-67770a17a/)
